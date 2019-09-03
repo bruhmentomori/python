@@ -6,4 +6,4 @@ lastName = "Lannerblad"
 age = 19
 teacher = True
 print(firstName , lastName + str(age) + str(teacher))
-print(dateOfBirth)
+print(dateOfBirth + " ")
