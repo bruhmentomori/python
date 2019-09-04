@@ -13,4 +13,4 @@ if age < 18:
     print('Du har inte fyllt 18 ännu')
     elif:
        print('Du har fyllt 18')
-
+ 
