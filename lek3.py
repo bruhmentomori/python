@@ -27,7 +27,7 @@ elif operator == "/":
        summa = tal1 / tal2
     except(ZeroDivisionError):
         print("Det går ej att dividera med 0")
-        summa = str(" ägd nolla")
+        summa = str(" say sike right now")
 
 
 else:
