@@ -15,7 +15,7 @@ try:
 except:
     print("Du måste skriva in en siffra: ")
     tal2 = 0
-
+            
 if operator == "+":
     summa = tal1 + tal2
 elif operator == "-":
